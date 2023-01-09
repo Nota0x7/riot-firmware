@@ -1,3 +1,3 @@
 ### Welcome to the Riot Firmware repo!
 
-**This is a fork from** [flipperzero-firmware](https://github.com/flipperdevices/flipperzero-firmware)
+**This is a fork from** [RogueMaster/flipperzero-firmware-wPlugins](https://github.com/RogueMaster/flipperzero-firmware-wPlugins)
